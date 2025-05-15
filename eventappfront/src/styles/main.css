@@ -1,0 +1,121 @@
+/* @import url('https://fonts.googleapis.com/css?family=Nunito:700,400&display=swap');
+
+body {
+  background: #f6f8fa;
+  font-family: 'Nunito', Arial, sans-serif;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #232946;
+  padding: 1.2em 2em;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(44,62,80,0.04);
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 2em;
+  font-weight: 700;
+  font-size: 1.1em;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #eebbc3;
+}
+
+h2 {
+  color: #232946;
+  margin-bottom: 1em;
+  font-size: 2em;
+}
+
+form {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 2em;
+  align-items: center;
+}
+
+form input, form button {
+  padding: 0.6em 1em;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  font-size: 1em;
+}
+
+form button {
+  background: #232946;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+form button:hover {
+  background: #eebbc3;
+  color: #232946;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 1.2em;
+  padding: 1.2em 2em;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(44,62,80,0.07);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li strong {
+  color: #0057ff;
+  font-size: 1.1em;
+  margin-right: 1em;
+}
+
+.event-actions {
+  display: flex;
+  gap: 0.7em;
+}
+
+button {
+  padding: 0.5em 1.1em;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+button.edit {
+  background: #0057ff;
+  color: #fff;
+}
+
+button.edit:hover {
+  background: #232946;
+}
+
+button.delete {
+  background: #e74c3c;
+  color: #fff;
+}
+
+button.delete:hover {
+  background: #fff;
+  color: #e74c3c;
+  border: 1px solid #e74c3c;
+} */
