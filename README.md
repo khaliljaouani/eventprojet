@@ -90,13 +90,6 @@ EventProjet est une application de réservation de places pour des événements 
 
 ---
 
-## 📦 Livrables
-
-- 📁 Dépôt Git : code source complet (frontend, backend, BDD, docs)
-- 📄 Rapport technique : détail des choix techniques et tests réalisés
-- 📽️ Diaporama de présentation : architecture, démonstration du projet, tests
-
----
 
 ## 📊 Diagrammes UML
 
@@ -119,5 +112,29 @@ EventProjet est une application de réservation de places pour des événements 
 ### 🔁 1. Cloner le projet
 
 ```bash
-git clone https://github.com/<ton-utilisateur>/eventprojet.git
+git clone https://github.com/khaliljaouani/eventprojet.git
 cd eventprojet
+
+### 🖥️ 2. Installer et lancer le backend
+
+cd backend
+npm install
+node server.js
+
+
+### 🌐 3. Installer et lancer le frontend
+
+cd ../frontend
+npm install
+npm start
+
+ ### 💾 4. Importer la base de données
+Ouvrir HeidiSQL ou phpMyAdmin
+
+Créer une base eventdb
+
+Importer le fichier database.sql fourni dans le dossier /db
+
+### 📦 5. Installer les dépendances
+
+npm install react-bootstrap bootstrap
