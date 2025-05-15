@@ -12,7 +12,6 @@
 - [🧱 Choix d’architecture](#choix-darchitecture)
 - [🧬 Principes appliqués (KISS, DDD, SOLID, TDD)](#principes-appliqués)
 - [💾 Cluster MariaDB](#cluster-mariadb)
-- [📦 Livrables](#livrables)
 - [📊 Diagrammes UML](#diagrammes-uml)
 - [🛠️ Installation & Lancement](#installation--lancement)
 - [📬 Contact](#contact)
