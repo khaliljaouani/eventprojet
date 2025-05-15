@@ -99,7 +99,7 @@ EventProjet est une application de réservation de places pour des événements 
 
 ### 🧩 Diagramme de classes
 
-![Diagramme de classes](./docs/diagramme_classes.PNG)
+![Diagramme de classes](./docs/diagramme_classes.png.PNG)
 
 > Montre les entités principales : Utilisateur, Événement, Réservation, et leurs relations.
 
