@@ -14,7 +14,6 @@
 - [💾 Cluster MariaDB](#cluster-mariadb)
 - [📊 Diagrammes UML](#diagrammes-uml)
 - [🛠️ Installation & Lancement](#installation--lancement)
-- [📬 Contact](#contact)
 
 ---
 
